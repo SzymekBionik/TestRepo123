@@ -196,3 +196,356 @@ Open repository: /home/ssajmon
 > git remote --verbose
 > git config --get commit.template
 > git add -A -- .
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git ls-files --stage -- /home/ssajmon/xd.py
+> git cat-file -s d3e46f27cbccd2f07f6b4876b14e96bd6e96a89f
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :xd.py
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/ssajmon/xd.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count af519e3c6e87d04f59d616b93ae61f7df719abd1.. -- /home/ssajmon/xd.py
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/ssajmon/xd.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count af519e3c6e87d04f59d616b93ae61f7df719abd1.. -- /home/ssajmon/xd.py
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/ssajmon/xd.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/ssajmon/xd.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ssajmon/xd.py
+> git cat-file -s ce04f4c3359ec345abf58e332197deabb3865127
+> git show --textconv :xd.py
+> git show --textconv HEAD:xd.py
+> git show --textconv :xd.py
+> git ls-tree -l HEAD -- /home/ssajmon/xd.py
+> git ls-files --stage -- /home/ssajmon/xd.py
+> git cat-file -s ce04f4c3359ec345abf58e332197deabb3865127
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/ssajmon/xd.py
+> git ls-files --stage -- /home/ssajmon/xd.py
+> git cat-file -s ce04f4c3359ec345abf58e332197deabb3865127
+> git show --textconv HEAD:xd.py
+> git show --textconv :xd.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/ssajmon/xd.py
+> git ls-files --stage -- /home/ssajmon/xd.py
+> git cat-file -s ce04f4c3359ec345abf58e332197deabb3865127
+> git show --textconv HEAD:xd.py
+> git show --textconv :xd.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git ls-tree -l HEAD -- /home/ssajmon/xd.py
+> git ls-files --stage -- /home/ssajmon/xd.py
+> git cat-file -s ce04f4c3359ec345abf58e332197deabb3865127
+> git show --textconv HEAD:xd.py
+> git show --textconv :xd.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/ssajmon/xd.py
+> git ls-files --stage -- /home/ssajmon/xd.py
+> git cat-file -s ce04f4c3359ec345abf58e332197deabb3865127
+> git show --textconv HEAD:xd.py
+> git show --textconv :xd.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:.vscode-server/data/logs/20211116T212534/remoteagent.log
+> git ls-tree -l HEAD -- /home/ssajmon/.vscode-server/data/logs/20211116T212534/remoteagent.log
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/ssajmon/.vscode-server/data/logs/20211116T212534/remoteagent.log
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ssajmon/.vscode-server/data/logs/20211116T212534/remoteagent.log
+> git cat-file -s 5f10cf7dca83124063f2bad3ac93f0945d226127
+> git show --textconv :.vscode-server/data/logs/20211116T212534/remoteagent.log
+> git show --textconv HEAD:.vscode-server/data/logs/20211116T212534/remoteagent.log
+> git show --textconv :.vscode-server/data/logs/20211116T212534/remoteagent.log
+> git ls-tree -l HEAD -- /home/ssajmon/.vscode-server/data/logs/20211116T212534/remoteagent.log
+> git ls-files --stage -- /home/ssajmon/.vscode-server/data/logs/20211116T212534/remoteagent.log
+> git cat-file -s 5f10cf7dca83124063f2bad3ac93f0945d226127
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/ssajmon/.vscode-server/data/logs/20211116T212534/remoteagent.log
+> git ls-files --stage -- /home/ssajmon/.vscode-server/data/logs/20211116T212534/remoteagent.log
+> git cat-file -s 5f10cf7dca83124063f2bad3ac93f0945d226127
+> git show --textconv HEAD:.vscode-server/data/logs/20211116T212534/remoteagent.log
+> git show --textconv :.vscode-server/data/logs/20211116T212534/remoteagent.log
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/ssajmon/.vscode-server/data/logs/20211116T212534/exthost2/exthost.log
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/ssajmon/.vscode-server/data/logs/20211116T212534/remoteagent.log
+> git ls-files --stage -- /home/ssajmon/.vscode-server/data/logs/20211116T212534/remoteagent.log
+> git cat-file -s 5f10cf7dca83124063f2bad3ac93f0945d226127
+> git show --textconv HEAD:.vscode-server/data/logs/20211116T212534/remoteagent.log
+> git show --textconv :.vscode-server/data/logs/20211116T212534/remoteagent.log
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/ssajmon/.vscode-server/data/logs/20211116T212534/exthost2/output_logging_20211116T212541/1-Git.log
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/ssajmon/.vscode-server/data/logs/20211116T212534/remoteagent.log
+> git ls-files --stage -- /home/ssajmon/.vscode-server/data/logs/20211116T212534/remoteagent.log
+> git cat-file -s 5f10cf7dca83124063f2bad3ac93f0945d226127
+> git show --textconv HEAD:.vscode-server/data/logs/20211116T212534/remoteagent.log
+> git show --textconv :.vscode-server/data/logs/20211116T212534/remoteagent.log
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/ssajmon/.vscode-server/data/logs/20211116T212534/exthost2/output_logging_20211116T212541/1-Git.log
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/ssajmon/.vscode-server/data/logs/20211116T212534/remoteagent.log
+> git ls-files --stage -- /home/ssajmon/.vscode-server/data/logs/20211116T212534/remoteagent.log
+> git cat-file -s 5f10cf7dca83124063f2bad3ac93f0945d226127
+> git show --textconv HEAD:.vscode-server/data/logs/20211116T212534/remoteagent.log
+> git show --textconv :.vscode-server/data/logs/20211116T212534/remoteagent.log
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/ssajmon/.vscode-server/data/logs/20211116T212534/exthost2/output_logging_20211116T212541/1-Git.log
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/ssajmon/.vscode-server/data/logs/20211116T212534/remoteagent.log
+> git ls-files --stage -- /home/ssajmon/.vscode-server/data/logs/20211116T212534/remoteagent.log
+> git cat-file -s 5f10cf7dca83124063f2bad3ac93f0945d226127
+> git show --textconv HEAD:.vscode-server/data/logs/20211116T212534/remoteagent.log
+> git show --textconv :.vscode-server/data/logs/20211116T212534/remoteagent.log
+> git show --textconv HEAD:.vscode-server/data/logs/20211116T212534/exthost2/output_logging_20211116T212549/5-Python Language Server.log
+> git ls-tree -l HEAD -- /home/ssajmon/.vscode-server/data/logs/20211116T212534/exthost2/output_logging_20211116T212549/5-Python Language Server.log
+> git check-ignore -v -z --stdin
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/ssajmon/.vscode-server/data/logs/20211116T212534/exthost2/output_logging_20211116T212549/5-Python Language Server.log
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ssajmon/.vscode-server/data/logs/20211116T212534/exthost2/output_logging_20211116T212549/5-Python Language Server.log
+> git cat-file -s 5cbcaeaa531895d3b77494dffc1b17f807efb9f4
+> git show --textconv :.vscode-server/data/logs/20211116T212534/exthost2/output_logging_20211116T212549/5-Python Language Server.log
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/ssajmon/.vscode-server/data/logs/20211116T212534/exthost2/output_logging_20211116T212541/1-Git.log
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ssajmon/.vscode-server/data/logs/20211116T212534/exthost2/output_logging_20211116T212549/5-Python Language Server.log
+> git cat-file -s 5cbcaeaa531895d3b77494dffc1b17f807efb9f4
+> git show --textconv :.vscode-server/data/logs/20211116T212534/exthost2/output_logging_20211116T212549/5-Python Language Server.log
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/ssajmon/.vscode-server/data/logs/20211116T212534/exthost2/output_logging_20211116T212541/1-Git.log
