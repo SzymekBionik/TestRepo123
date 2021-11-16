@@ -14,3 +14,6 @@
 	at /home/ssajmon/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:353150
 	at h (/home/ssajmon/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:358146)
 	at async x.provideCompletionItems (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:94:181124)
+[2021-11-16 21:51:10.715] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-11-16 21:51:10.721] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-11-16 21:51:10.765] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
