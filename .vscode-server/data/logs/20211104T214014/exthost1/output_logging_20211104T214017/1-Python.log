@@ -1,0 +1,394 @@
+User belongs to experiment group 'pythonaa'
+User belongs to experiment group 'pythonTensorboardExperiment'
+User belongs to experiment group 'pythonSurveyNotificationcf'
+User belongs to experiment group 'PythonPyTorchProfiler'
+User belongs to experiment group 'pythonDeprecatePythonPath'
+User belongs to experiment group 'pythonRunFailedTestsButtonDisplayed'
+User belongs to experiment group 'pythonRefreshTestsButtonDisplayed'
+User belongs to experiment group 'pythonRememberDebugConfig'
+> conda info --json
+> /bin/python3 ~/.vscode-server/extensions/ms-python.python-2021.10.1365161279/pythonFiles/interpreterInfo.py
+Python interpreter path: /bin/python3
+> /usr/bin/python3 ~/.vscode-server/extensions/ms-python.python-2021.10.1365161279/pythonFiles/interpreterInfo.py
+Starting Pylance language server.
+> conda --version
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kolko_i_krzyzyk.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kolko_i_krzyzyk.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kolko_i_krzyzyk.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kolko_i_krzyzyk.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kolko_i_krzyzyk.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kolko_i_krzyzyk.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kolko_i_krzyzyk.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kolko_i_krzyzyk.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kolko_i_krzyzyk.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kolko_i_krzyzyk.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kolko_i_krzyzyk.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kolko_i_krzyzyk.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kolko_i_krzyzyk.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kolko_i_krzyzyk.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kolko_i_krzyzyk.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kolko_i_krzyzyk.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kolko_i_krzyzyk.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kolko_i_krzyzyk.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kolko_i_krzyzyk.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kolko_i_krzyzyk.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kolko_i_krzyzyk.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kolko_i_krzyzyk.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kolko_i_krzyzyk.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kolko_i_krzyzyk.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kolko_i_krzyzyk.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+Error 2021-11-04 22:29:12: Error while running worker[Worker 2]. undefined
+Error 2021-11-04 22:29:12: Error while running worker[Worker 1]. undefined

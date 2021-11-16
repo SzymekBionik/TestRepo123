@@ -1,0 +1,14 @@
+[2021-11-14 21:53:00.400] [exthost] [info] Extension host with pid 570 started
+[2021-11-14 21:53:00.412] [exthost] [info] Lock '/home/ssajmon/.vscode-server/data/User/workspaceStorage/6f0e32ad61e1f7d243cf20e9abc40e47/vscode.lock': Lock acquired.
+[2021-11-14 21:53:00.493] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.vscode-pylance
+[2021-11-14 21:53:00.630] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2021-11-14 21:53:00.835] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-14 21:53:00.838] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-14 21:53:01.076] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-14 21:53:01.224] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-14 21:53:01.227] [exthost] [info] Eager extensions activated
+[2021-11-14 21:53:01.426] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2021-11-14 21:53:01.566] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2021-11-14 21:53:18.090] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-11-14 21:53:18.091] [exthost] [info] Lock '/home/ssajmon/.vscode-server/data/User/workspaceStorage/6f0e32ad61e1f7d243cf20e9abc40e47/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-11-14 21:53:19.106] [exthost] [info] Extension host with pid 570 exiting with code 0

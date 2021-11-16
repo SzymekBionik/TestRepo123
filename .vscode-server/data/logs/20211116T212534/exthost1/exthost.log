@@ -1,0 +1,79 @@
+[2021-11-16 21:25:37.401] [exthost] [info] Extension host with pid 121 started
+[2021-11-16 21:25:37.688] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-16 21:25:37.701] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-16 21:25:37.838] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-11-16 21:25:37.842] [exthost] [error] Activating extension vscode.debug-auto-launch failed due to an error:
+[2021-11-16 21:25:37.842] [exthost] [error] Canceled: Canceled
+	at Object.i [as canceled] (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:5:1157)
+	at /home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:98:9064
+	at Array.forEach (<anonymous>)
+	at n.dispose (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:98:9012)
+	at b.terminate (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:103:694)
+	at o (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:113:32681)
+	at /home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:113:30562
+	at l.fire (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:66:1712)
+	at s.fire (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:74:15990)
+	at f._receiveMessage (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:74:21260)
+	at /home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:74:18138
+	at l.fire (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:66:1712)
+	at w.acceptChunk (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:74:13351)
+	at /home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:74:12699
+	at l.fire (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:66:1712)
+	at b._acceptChunk (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:113:19777)
+	at /home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:113:16037
+	at Socket.m (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:113:13575)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-11-16 21:25:37.843] [exthost] [error] Activating extension vscode.git failed due to an error:
+[2021-11-16 21:25:37.843] [exthost] [error] Canceled: Canceled
+	at Object.i [as canceled] (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:5:1157)
+	at /home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:98:9064
+	at Array.forEach (<anonymous>)
+	at n.dispose (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:98:9012)
+	at b.terminate (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:103:694)
+	at o (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:113:32681)
+	at /home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:113:30562
+	at l.fire (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:66:1712)
+	at s.fire (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:74:15990)
+	at f._receiveMessage (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:74:21260)
+	at /home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:74:18138
+	at l.fire (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:66:1712)
+	at w.acceptChunk (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:74:13351)
+	at /home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:74:12699
+	at l.fire (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:66:1712)
+	at b._acceptChunk (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:113:19777)
+	at /home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:113:16037
+	at Socket.m (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:113:13575)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:188:23)
+[2021-11-16 21:25:37.844] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-16 21:25:37.854] [exthost] [info] Eager extensions activated
+[2021-11-16 21:25:37.855] [exthost] [error] Activating extension vscode.merge-conflict failed due to an error:
+[2021-11-16 21:25:37.855] [exthost] [error] Canceled: Canceled
+	at Object.i [as canceled] (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:5:1157)
+	at n._remoteCall (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:98:13876)
+	at Proxy.O.<computed>.F.charCodeAt.O.<computed> (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:98:10271)
+	at _.getValue (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:95:30397)
+	at new L (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:87:4088)
+	at new y (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:87:5084)
+	at w._loadExtensionContext (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:99:13255)
+	at w._doActivateExtension (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:99:12973)
+	at w._activateExtension (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:99:11867)
+	at Object.actualActivateExtension (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:99:9242)
+	at l._activateExtension (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:94:88494)
+	at /home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:94:88176
+	at Array.map (<anonymous>)
+	at l._activateExtensions (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:94:88164)
+	at l.activateById (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:94:85762)
+	at w._activateById (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:99:10244)
+	at w._activateOneStartupFinished (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:99:15441)
+	at w._activateAllStartupFinished (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:99:15812)
+	at /home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:99:16305
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+[2021-11-16 21:25:38.839] [exthost] [info] Extension host with pid 121 exiting with code 0

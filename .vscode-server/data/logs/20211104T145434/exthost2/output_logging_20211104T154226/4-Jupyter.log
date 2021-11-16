@@ -1,0 +1,27 @@
+Info 2021-11-04 15:42:26: Experimentation service retrieved: [object Object]
+Info 2021-11-04 15:42:26: ZMQ install verified.
+Error 2021-11-04 15:42:26: Jupyter Extension (Error in Failed to update settings.json, method:fixSettingsFile): [EntryNotFound (FileSystemError): Unable to read file 'vscode-remote://wsl+ubuntu/home/ssajmon/.config/Code/User/settings.json' (Error: Unable to resolve nonexistent file 'vscode-remote://wsl+ubuntu/home/ssajmon/.config/Code/User/settings.json')
+	at _handleError (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:94:163865)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async m.readFile (/home/ssajmon/.vscode-server/extensions/ms-toolsai.jupyter-2021.9.1101343141/out/client/extension.js:90:363442)
+	at async g.fixSettingsFile (/home/ssajmon/.vscode-server/extensions/ms-toolsai.jupyter-2021.9.1101343141/out/client/extension.js:52:320440)
+	at async Promise.all (index 0)
+	at async g.updateSettings (/home/ssajmon/.vscode-server/extensions/ms-toolsai.jupyter-2021.9.1101343141/out/client/extension.js:52:322160)] {
+  code: 'FileNotFound'
+}
+Error 2021-11-04 15:42:26: Jupyter Extension (Error in Failed to update settings.json, method:fixSettingsFile): [EntryNotFound (FileSystemError): Unable to read file 'vscode-remote://wsl+ubuntu/home/ssajmon/folder1/.vscode/settings.json' (Error: Unable to resolve nonexistent file 'vscode-remote://wsl+ubuntu/home/ssajmon/folder1/.vscode/settings.json')
+	at _handleError (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:94:163865)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async m.readFile (/home/ssajmon/.vscode-server/extensions/ms-toolsai.jupyter-2021.9.1101343141/out/client/extension.js:90:363442)
+	at async g.fixSettingsFile (/home/ssajmon/.vscode-server/extensions/ms-toolsai.jupyter-2021.9.1101343141/out/client/extension.js:52:320440)
+	at async Promise.all (index 1)
+	at async g.updateSettings (/home/ssajmon/.vscode-server/extensions/ms-toolsai.jupyter-2021.9.1101343141/out/client/extension.js:52:322160)] {
+  code: 'FileNotFound'
+}
+Info 2021-11-04 16:28:04: Shutting down notebooks for 7fc7a3ef-60b9-4c38-b762-20c5834b0cb1
+Info 2021-11-04 16:28:04: Disposing HostJupyterExecution 871bd480-fe3d-4b53-ba88-1e94dc750af5
+Info 2021-11-04 16:28:04: Disposing super HostJupyterExecution 871bd480-fe3d-4b53-ba88-1e94dc750af5
+Info 2021-11-04 16:28:04: Disposing HostJupyterExecution 871bd480-fe3d-4b53-ba88-1e94dc750af5
+Info 2021-11-04 16:28:04: Finished disposing HostJupyterExecution  871bd480-fe3d-4b53-ba88-1e94dc750af5
+Info 2021-11-04 16:28:04: Cleaning up server cache 871bd480-fe3d-4b53-ba88-1e94dc750af5
+Info 2021-11-04 16:28:04: Finished disposing HostJupyterExecution  871bd480-fe3d-4b53-ba88-1e94dc750af5

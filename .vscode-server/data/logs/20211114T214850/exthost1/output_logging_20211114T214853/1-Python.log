@@ -1,0 +1,84 @@
+Experiment 'pythonaa' is active
+Experiment 'pythonTensorboardExperiment' is active
+Experiment 'pythonSurveyNotificationcf' is active
+Experiment 'PythonPyTorchProfiler' is active
+Experiment 'pythonDeprecatePythonPath' is active
+Experiment 'pythonRunFailedTestsButtonDisplayed' is active
+Experiment 'pythonRefreshTestsButtonDisplayed' is active
+Experiment 'pythonRememberDebugConfig' is active
+> conda info --json
+> /bin/python3 ~/.vscode-server/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+Python interpreter path: /bin/python3
+> /usr/bin/python3 ~/.vscode-server/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+Starting Pylance language server.
+> conda --version
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kolko_i_krzyzyk.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -c "import pytest"
+> /bin/python3 -c "import pip"
+> /bin/python3 ~/.vscode-server/extensions/ms-python.python-2021.11.1422169775/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir ~/folder1 -s --cache-clear .
+cwd: ~/folder1
+Error 2021-11-14 21:52:21: Error discovering pytest tests:
+ [r [Error]: Traceback (most recent call last):
+  File "/home/ssajmon/.vscode-server/extensions/ms-python.python-2021.11.1422169775/pythonFiles/testing_tools/run_adapter.py", line 17, in <module>
+    from testing_tools.adapter.__main__ import parse_args, main
+  File "/home/ssajmon/.vscode-server/extensions/ms-python.python-2021.11.1422169775/pythonFiles/testing_tools/adapter/__main__.py", line 9, in <module>
+    from . import pytest, report
+  File "/home/ssajmon/.vscode-server/extensions/ms-python.python-2021.11.1422169775/pythonFiles/testing_tools/adapter/pytest/__init__.py", line 7, in <module>
+    from ._discovery import discover
+  File "/home/ssajmon/.vscode-server/extensions/ms-python.python-2021.11.1422169775/pythonFiles/testing_tools/adapter/pytest/_discovery.py", line 8, in <module>
+    import pytest
+ModuleNotFoundError: No module named 'pytest'
+
+	at ChildProcess.<anonymous> (/home/ssajmon/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:17:38446)
+	at Object.onceWrapper (events.js:422:26)
+	at ChildProcess.emit (events.js:315:20)
+	at maybeClose (internal/child_process.js:1048:16)
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)]
+> /bin/python3 ~/.vscode-server/extensions/ms-python.python-2021.11.1422169775/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir ~/folder1 -s --cache-clear .
+cwd: ~/folder1
+Error 2021-11-14 21:52:21: Error discovering pytest tests:
+ [r [Error]: Traceback (most recent call last):
+  File "/home/ssajmon/.vscode-server/extensions/ms-python.python-2021.11.1422169775/pythonFiles/testing_tools/run_adapter.py", line 17, in <module>
+    from testing_tools.adapter.__main__ import parse_args, main
+  File "/home/ssajmon/.vscode-server/extensions/ms-python.python-2021.11.1422169775/pythonFiles/testing_tools/adapter/__main__.py", line 9, in <module>
+    from . import pytest, report
+  File "/home/ssajmon/.vscode-server/extensions/ms-python.python-2021.11.1422169775/pythonFiles/testing_tools/adapter/pytest/__init__.py", line 7, in <module>
+    from ._discovery import discover
+  File "/home/ssajmon/.vscode-server/extensions/ms-python.python-2021.11.1422169775/pythonFiles/testing_tools/adapter/pytest/_discovery.py", line 8, in <module>
+    import pytest
+ModuleNotFoundError: No module named 'pytest'
+
+	at ChildProcess.<anonymous> (/home/ssajmon/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:17:38446)
+	at Object.onceWrapper (events.js:422:26)
+	at ChildProcess.emit (events.js:315:20)
+	at maybeClose (internal/child_process.js:1048:16)
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)]
+> /bin/python3 ~/.vscode-server/extensions/ms-python.python-2021.11.1422169775/pythonFiles/testing_tools/run_adapter.py discover pytest -- --rootdir ~/folder1 -s --cache-clear .
+cwd: ~/folder1
+Error 2021-11-14 21:52:30: Error discovering pytest tests:
+ [r [Error]: Traceback (most recent call last):
+  File "/home/ssajmon/.vscode-server/extensions/ms-python.python-2021.11.1422169775/pythonFiles/testing_tools/run_adapter.py", line 17, in <module>
+    from testing_tools.adapter.__main__ import parse_args, main
+  File "/home/ssajmon/.vscode-server/extensions/ms-python.python-2021.11.1422169775/pythonFiles/testing_tools/adapter/__main__.py", line 9, in <module>
+    from . import pytest, report
+  File "/home/ssajmon/.vscode-server/extensions/ms-python.python-2021.11.1422169775/pythonFiles/testing_tools/adapter/pytest/__init__.py", line 7, in <module>
+    from ._discovery import discover
+  File "/home/ssajmon/.vscode-server/extensions/ms-python.python-2021.11.1422169775/pythonFiles/testing_tools/adapter/pytest/_discovery.py", line 8, in <module>
+    import pytest
+ModuleNotFoundError: No module named 'pytest'
+
+	at ChildProcess.<anonymous> (/home/ssajmon/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:17:38446)
+	at Object.onceWrapper (events.js:422:26)
+	at ChildProcess.emit (events.js:315:20)
+	at maybeClose (internal/child_process.js:1048:16)
+	at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)]
+> /bin/python3 -c "import pytest"
+> /bin/python3 -c "import pip"
+Error 2021-11-14 21:52:42: Error while running worker[Worker 2]. undefined
+Error 2021-11-14 21:52:42: Error while running worker[Worker 1]. undefined

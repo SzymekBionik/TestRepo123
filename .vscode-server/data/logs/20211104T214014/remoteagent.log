@@ -1,0 +1,23 @@
+[2021-11-04 21:40:14.810] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-11-04 21:40:14.810] [remoteagent] [info] Extension host agent started.
+[2021-11-04 21:40:15.071] [remoteagent] [info] [::ffff:172.28.64.1][3174a069][ExtensionHostConnection] New connection established.
+[2021-11-04 21:40:15.073] [remoteagent] [info] [::ffff:172.28.64.1][60c5d440][ManagementConnection] New connection established.
+[2021-11-04 21:40:15.343] [remoteagent] [info] [::ffff:172.28.64.1][3174a069][ExtensionHostConnection] <82> Launched Extension Host Process.
+[2021-11-04 21:40:18.390] [remoteagent] [info] Installing extension: ms-python.python
+[2021-11-04 21:40:24.577] [remoteagent] [info] Downloaded extension: ms-python.python /home/ssajmon/.vscode-server/data/CachedExtensionVSIXs/ms-python.python-2021.11.1422169775
+[2021-11-04 21:40:27.296] [remoteagent] [info] Extracted extension to /home/ssajmon/.vscode-server/extensions/.72ec37af-1f3d-44ab-bd5f-611208a28c3f: ms-python.python
+[2021-11-04 21:40:27.312] [remoteagent] [info] Renamed to /home/ssajmon/.vscode-server/extensions/ms-python.python-2021.11.1422169775
+[2021-11-04 21:40:27.314] [remoteagent] [info] Extracting completed. ms-python.python
+[2021-11-04 21:40:27.320] [remoteagent] [info] Extension installed successfully: ms-python.python
+[2021-11-04 22:29:12.066] [remoteagent] [info] [::ffff:172.28.64.1][60c5d440][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-11-04 22:29:13.129] [remoteagent] [info] [::ffff:172.28.64.1][3174a069][ExtensionHostConnection] <82> Extension Host Process exited with code: 0, signal: null.
+[2021-11-04 22:29:13.129] [remoteagent] [info] Last EH closed, waiting before shutting down

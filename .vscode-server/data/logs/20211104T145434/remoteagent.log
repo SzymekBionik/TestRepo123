@@ -1,0 +1,53 @@
+[2021-11-04 14:54:35.095] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-11-04 14:54:35.100] [remoteagent] [info] Extension host agent started.
+[2021-11-04 14:54:35.246] [remoteagent] [info] [::ffff:172.28.64.1][ae63160d][ManagementConnection] New connection established.
+[2021-11-04 14:54:35.248] [remoteagent] [info] [::ffff:172.28.64.1][31d34afe][ExtensionHostConnection] New connection established.
+[2021-11-04 14:54:35.253] [remoteagent] [info] [::ffff:172.28.64.1][31d34afe][ExtensionHostConnection] <193> Launched Extension Host Process.
+[2021-11-04 14:55:05.090] [remoteagent] [info] Installing extension: ms-python.python
+[2021-11-04 14:55:07.610] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2021-11-04 14:55:07.610] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2021-11-04 14:55:07.610] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2021-11-04 14:55:07.611] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2021-11-04 14:55:08.356] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-keymap /home/ssajmon/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[2021-11-04 14:55:08.385] [remoteagent] [info] Extracted extension to /home/ssajmon/.vscode-server/extensions/.a7e74744-0704-4b1e-a838-67f5578bd4af: ms-toolsai.jupyter-keymap
+[2021-11-04 14:55:08.394] [remoteagent] [info] Renamed to /home/ssajmon/.vscode-server/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[2021-11-04 14:55:08.396] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2021-11-04 14:55:14.063] [remoteagent] [info] Downloaded extension: ms-python.python /home/ssajmon/.vscode-server/data/CachedExtensionVSIXs/ms-python.python-2021.10.1365161279
+[2021-11-04 14:55:15.772] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/ssajmon/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.3
+[2021-11-04 14:55:16.042] [remoteagent] [info] Extracted extension to /home/ssajmon/.vscode-server/extensions/.b9650f5b-2710-4ac0-9093-3107389d7db4: ms-toolsai.jupyter-renderers
+[2021-11-04 14:55:16.051] [remoteagent] [info] Renamed to /home/ssajmon/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.3
+[2021-11-04 14:55:16.052] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2021-11-04 14:55:16.455] [remoteagent] [info] Extracted extension to /home/ssajmon/.vscode-server/extensions/.c7ca9cd0-bf33-4e66-9ff9-e852f261c770: ms-python.python
+[2021-11-04 14:55:16.467] [remoteagent] [info] Renamed to /home/ssajmon/.vscode-server/extensions/ms-python.python-2021.10.1365161279
+[2021-11-04 14:55:16.470] [remoteagent] [info] Extracting completed. ms-python.python
+[2021-11-04 14:55:18.291] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /home/ssajmon/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.9.1101343141
+[2021-11-04 14:55:19.043] [remoteagent] [info] Extracted extension to /home/ssajmon/.vscode-server/extensions/.495d9d59-e06c-4ccf-9654-fb63f0196b81: ms-toolsai.jupyter
+[2021-11-04 14:55:19.053] [remoteagent] [info] Renamed to /home/ssajmon/.vscode-server/extensions/ms-toolsai.jupyter-2021.9.1101343141
+[2021-11-04 14:55:19.055] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2021-11-04 14:55:25.767] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/ssajmon/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.11.0
+[2021-11-04 14:55:29.138] [remoteagent] [info] Extracted extension to /home/ssajmon/.vscode-server/extensions/.9865015d-9bec-44cc-84d9-ca6f7c94fba1: ms-python.vscode-pylance
+[2021-11-04 14:55:29.153] [remoteagent] [info] Renamed to /home/ssajmon/.vscode-server/extensions/ms-python.vscode-pylance-2021.11.0
+[2021-11-04 14:55:29.155] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2021-11-04 14:55:29.155] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2021-11-04 14:55:29.155] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2021-11-04 14:55:29.155] [remoteagent] [info] Extension installed successfully: ms-python.python
+[2021-11-04 14:55:29.155] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2021-11-04 14:55:29.155] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance
+[2021-11-04 15:40:24.066] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2021-11-04 15:42:20.285] [remoteagent] [info] [::ffff:172.28.64.1][37f61726][ManagementConnection] New connection established.
+[2021-11-04 15:42:20.354] [remoteagent] [info] [::ffff:172.28.64.1][055e6a6f][ExtensionHostConnection] New connection established.
+[2021-11-04 15:42:20.379] [remoteagent] [info] [::ffff:172.28.64.1][055e6a6f][ExtensionHostConnection] <252> Launched Extension Host Process.
+[2021-11-04 15:42:21.481] [remoteagent] [info] [::ffff:172.28.64.1][ae63160d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-11-04 15:42:22.493] [remoteagent] [info] [::ffff:172.28.64.1][31d34afe][ExtensionHostConnection] <193> Extension Host Process exited with code: 0, signal: null.
+[2021-11-04 16:28:04.450] [remoteagent] [info] [::ffff:172.28.64.1][37f61726][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-11-04 16:28:05.519] [remoteagent] [info] [::ffff:172.28.64.1][055e6a6f][ExtensionHostConnection] <252> Extension Host Process exited with code: 0, signal: null.
+[2021-11-04 16:28:05.519] [remoteagent] [info] Last EH closed, waiting before shutting down

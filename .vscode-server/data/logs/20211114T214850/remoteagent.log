@@ -1,0 +1,30 @@
+[2021-11-14 21:48:50.706] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-11-14 21:48:50.706] [remoteagent] [info] Extension host agent started.
+[2021-11-14 21:48:50.917] [remoteagent] [info] Deleted from disk ms-python.python /home/ssajmon/.vscode-server/extensions/ms-python.python-2021.10.1365161279
+[2021-11-14 21:48:51.023] [remoteagent] [info] [::ffff:172.28.192.1][2d5e8c37][ManagementConnection] New connection established.
+[2021-11-14 21:48:51.025] [remoteagent] [info] [::ffff:172.28.192.1][5e583624][ExtensionHostConnection] New connection established.
+[2021-11-14 21:48:51.636] [remoteagent] [info] [::ffff:172.28.192.1][5e583624][ExtensionHostConnection] <149> Launched Extension Host Process.
+[2021-11-14 21:48:54.297] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2021-11-14 21:48:54.370] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2021-11-14 21:49:01.621] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/ssajmon/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.11.1
+[2021-11-14 21:49:04.787] [remoteagent] [info] Extracted extension to /home/ssajmon/.vscode-server/extensions/.1c4aa880-a6b2-47d2-9ddc-dfdeb0e515b7: ms-python.vscode-pylance
+[2021-11-14 21:49:04.798] [remoteagent] [info] Renamed to /home/ssajmon/.vscode-server/extensions/ms-python.vscode-pylance-2021.11.1
+[2021-11-14 21:49:04.800] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2021-11-14 21:49:04.803] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance
+[2021-11-14 21:49:06.336] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /home/ssajmon/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.10.1101450599
+[2021-11-14 21:49:06.870] [remoteagent] [info] Extracted extension to /home/ssajmon/.vscode-server/extensions/.0ffb2a3b-931a-4131-9569-549a495330a4: ms-toolsai.jupyter
+[2021-11-14 21:49:06.879] [remoteagent] [info] Renamed to /home/ssajmon/.vscode-server/extensions/ms-toolsai.jupyter-2021.10.1101450599
+[2021-11-14 21:49:06.881] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2021-11-14 21:49:06.885] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2021-11-14 21:52:42.559] [remoteagent] [info] [::ffff:172.28.192.1][2d5e8c37][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-11-14 21:52:43.599] [remoteagent] [info] [::ffff:172.28.192.1][5e583624][ExtensionHostConnection] <149> Extension Host Process exited with code: 0, signal: null.
+[2021-11-14 21:52:43.599] [remoteagent] [info] Last EH closed, waiting before shutting down

@@ -1,0 +1,187 @@
+User belongs to experiment group 'pythonaa'
+User belongs to experiment group 'pythonTensorboardExperiment'
+User belongs to experiment group 'pythonSurveyNotificationcf'
+User belongs to experiment group 'PythonPyTorchProfiler'
+User belongs to experiment group 'pythonDeprecatePythonPath'
+User belongs to experiment group 'pythonRunFailedTestsButtonDisplayed'
+User belongs to experiment group 'pythonRefreshTestsButtonDisplayed'
+User belongs to experiment group 'pythonRememberDebugConfig'
+> conda info --json
+> C:\Users\szyme\AppData\Local\Microsoft\WindowsApps\python3.9.exe -c "import sys;print(sys.executable)"
+> /bin/python3 ~/.vscode-server/extensions/ms-python.python-2021.10.1365161279/pythonFiles/interpreterInfo.py
+> /usr/bin/python3 ~/.vscode-server/extensions/ms-python.python-2021.10.1365161279/pythonFiles/interpreterInfo.py
+> C:\Users\szyme\AppData\Local\Microsoft\WindowsApps\python3.9.exe -c "import sys;print(sys.executable)"
+> C:\Users\szyme\AppData\Local\Microsoft\WindowsApps\python3.9.exe -c "import sys;print(sys.executable)"
+Starting Pylance language server.
+> C:\Users\szyme\AppData\Local\Microsoft\WindowsApps\python3.9.exe -c "import sys;print(sys.executable)"
+Error 2021-11-04 15:42:27: Diagnostic Code: InvalidPythonInterpreterDiagnostic, Message: No Python interpreter is selected. You need to select a Python interpreter to enable features such as IntelliSense, linting, and debugging.
+Diagnostic Code: InvalidPythonInterpreterDiagnostic, Message: No Python interpreter is selected. You need to select a Python interpreter to enable features such as IntelliSense, linting, and debugging.
+> conda --version
+> C:\Users\szyme\AppData\Local\Microsoft\WindowsApps\python3.9.exe -c "import sys;print(sys.executable)"
+> C:\Users\szyme\AppData\Local\Microsoft\WindowsApps\python3.9.exe -c "import sys;print(sys.executable)"
+> C:\Users\szyme\AppData\Local\Microsoft\WindowsApps\python3.9.exe ~/.vscode-server/extensions/ms-python.python-2021.10.1365161279/pythonFiles/interpreterInfo.py
+> C:\Users\szyme\AppData\Local\Microsoft\WindowsApps\python3.9.exe -c "import sys;print(sys.executable)"
+> C:\Users\szyme\AppData\Local\Microsoft\WindowsApps\python3.9.exe ~/.vscode-server/extensions/ms-python.python-2021.10.1365161279/pythonFiles/interpreterInfo.py
+Python interpreter path: /bin/python3
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -c "import pip"
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -c "import pip"
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -c "import pip"
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -c "import pip"
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kukulka.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+Error 2021-11-04 16:28:04: Error while running worker[Worker 2]. undefined
+Error 2021-11-04 16:28:04: Error while running worker[Worker 1]. undefined
+Error 2021-11-04 16:28:04: NotInstalledErrorHandler.promptToInstall [Canceled: Canceled
+	at Object.n [as canceled] (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:5:1157)
+	at /home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:98:9064
+	at Array.forEach (<anonymous>)
+	at i.dispose (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:98:9012)
+	at b.terminate (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:103:682)
+	at o (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:113:32535)
+	at /home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:113:30451
+	at a.fire (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:66:1712)
+	at l.fire (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:74:15990)
+	at u._receiveMessage (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:74:21260)
+	at /home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:74:18138
+	at a.fire (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:66:1712)
+	at w.acceptChunk (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:74:13351)
+	at /home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:74:12699
+	at a.fire (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:66:1712)
+	at b._acceptChunk (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:113:19667)
+	at /home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:113:15927
+	at Socket.v (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:113:13465)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:188:23)]
+Error 2021-11-04 16:28:04: NotInstalledErrorHandler.promptToInstall [Canceled: Canceled
+	at Object.n [as canceled] (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:5:1157)
+	at /home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:98:9064
+	at Array.forEach (<anonymous>)
+	at i.dispose (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:98:9012)
+	at b.terminate (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:103:682)
+	at o (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:113:32535)
+	at /home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:113:30451
+	at a.fire (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:66:1712)
+	at l.fire (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:74:15990)
+	at u._receiveMessage (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:74:21260)
+	at /home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:74:18138
+	at a.fire (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:66:1712)
+	at w.acceptChunk (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:74:13351)
+	at /home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:74:12699
+	at a.fire (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:66:1712)
+	at b._acceptChunk (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:113:19667)
+	at /home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:113:15927
+	at Socket.v (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:113:13465)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:188:23)]
+Error 2021-11-04 16:28:04: NotInstalledErrorHandler.promptToInstall [Canceled: Canceled
+	at Object.n [as canceled] (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:5:1157)
+	at /home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:98:9064
+	at Array.forEach (<anonymous>)
+	at i.dispose (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:98:9012)
+	at b.terminate (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:103:682)
+	at o (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:113:32535)
+	at /home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:113:30451
+	at a.fire (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:66:1712)
+	at l.fire (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:74:15990)
+	at u._receiveMessage (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:74:21260)
+	at /home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:74:18138
+	at a.fire (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:66:1712)
+	at w.acceptChunk (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:74:13351)
+	at /home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:74:12699
+	at a.fire (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:66:1712)
+	at b._acceptChunk (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:113:19667)
+	at /home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:113:15927
+	at Socket.v (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:113:13465)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at TCP.onStreamRead (internal/stream_base_commons.js:188:23)]

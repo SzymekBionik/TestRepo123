@@ -1,0 +1,48 @@
+[2021-11-04 21:40:16.638] [exthost] [info] extension host started
+[2021-11-04 21:40:16.656] [exthost] [info] Lock '/home/ssajmon/.vscode-server/data/User/workspaceStorage/6f0e32ad61e1f7d243cf20e9abc40e47/vscode.lock': Lock acquired.
+[2021-11-04 21:40:16.858] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.vscode-pylance
+[2021-11-04 21:40:16.859] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ssajmon/.vscode-server/extensions/ms-python.python-2021.10.1365161279/out/client/extension
+[2021-11-04 21:40:17.147] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2021-11-04 21:40:17.148] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ssajmon/.vscode-server/extensions/ms-toolsai.jupyter-2021.9.1101343141/out/client/extension
+[2021-11-04 21:40:17.390] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-04 21:40:17.390] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/debug-auto-launch/dist/extension
+[2021-11-04 21:40:17.395] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-04 21:40:17.395] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/git/dist/main
+[2021-11-04 21:40:17.955] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-04 21:40:17.956] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/github/dist/extension.js
+[2021-11-04 21:40:18.098] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2021-11-04 21:40:18.098] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ssajmon/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.3/out/extension_renderer/index.js
+[2021-11-04 21:40:18.238] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-11-04 21:40:18.238] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/ms-vscode.js-debug/src/extension.js
+[2021-11-04 21:40:18.448] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-04 21:40:18.448] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/emmet/dist/node/emmetNodeMain
+[2021-11-04 21:40:18.475] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-04 21:40:18.475] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/merge-conflict/dist/mergeConflictMain
+[2021-11-04 21:40:18.482] [exthost] [info] eager extensions activated
+[2021-11-04 21:40:18.548] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2021-11-04 21:40:18.548] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ssajmon/.vscode-server/extensions/ms-python.vscode-pylance-2021.11.0/dist/extension.bundle.js
+[2021-11-04 22:00:37.774] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-11-04 22:00:37.774] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-11-04 22:01:20.384] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-04 22:01:20.384] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/ssajmon/.vscode-server/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153526)
+	at _.handleFailedRequest (/home/ssajmon/.vscode-server/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153377)
+	at /home/ssajmon/.vscode-server/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:121238
+	at async A.provideCodeActions (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:94:172403)
+[2021-11-04 22:03:32.956] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+[2021-11-04 22:03:32.956] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/extensions/debug-server-ready/dist/extension
+[2021-11-04 22:04:35.858] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-11-04 22:04:35.858] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-11-04 22:04:47.720] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-04 22:04:47.720] [exthost] [error] Canceled: Canceled
+	at _.makeCancelError (/home/ssajmon/.vscode-server/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153526)
+	at _.handleFailedRequest (/home/ssajmon/.vscode-server/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:153377)
+	at /home/ssajmon/.vscode-server/extensions/ms-python.python-2021.10.1365161279/out/client/extension.js:9:121238
+	at async A.provideCodeActions (/home/ssajmon/.vscode-server/bin/6cba118ac49a1b88332f312a8f67186f7f3c1643/out/vs/server/remoteExtensionHostProcess.js:94:172403)
+[2021-11-04 22:09:33.427] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-11-04 22:09:33.428] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-11-04 22:09:38.106] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-11-04 22:09:38.106] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2021-11-04 22:29:12.067] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-11-04 22:29:12.067] [exthost] [info] Lock '/home/ssajmon/.vscode-server/data/User/workspaceStorage/6f0e32ad61e1f7d243cf20e9abc40e47/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2021-11-04 22:29:13.119] [exthost] [info] exiting with code 0

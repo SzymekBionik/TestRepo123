@@ -1,0 +1,23 @@
+Experiment 'pythonaa' is active
+Experiment 'pythonTensorboardExperiment' is active
+Experiment 'pythonSurveyNotificationcf' is active
+Experiment 'PythonPyTorchProfiler' is active
+Experiment 'pythonDeprecatePythonPath' is active
+Experiment 'pythonRunFailedTestsButtonDisplayed' is active
+Experiment 'pythonRefreshTestsButtonDisplayed' is active
+Experiment 'pythonRememberDebugConfig' is active
+> conda info --json
+> /bin/python3 ~/.vscode-server/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+Python interpreter path: /bin/python3
+> /usr/bin/python3 ~/.vscode-server/extensions/ms-python.python-2021.11.1422169775/pythonFiles/interpreterInfo.py
+Starting Pylance language server.
+> conda --version
+> /bin/python3 -m flake8 --format=%(row)d,%(col)d,%(code).1s,%(code)s:%(text)s ~/folder1/kolko_i_krzyzyk.py
+cwd: ~/folder1
+> /bin/python3 -c "import flake8"
+> /bin/python3 -c "import flake8"
+
+Linter 'flake8' is not installed. Please install it or select another linter".
+Error: Module 'flake8' not installed.
+Error 2021-11-14 21:53:18: Error while running worker[Worker 2]. undefined
+Error 2021-11-14 21:53:18: Error while running worker[Worker 1]. undefined
