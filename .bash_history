@@ -25,3 +25,18 @@ python3 -m ensurepip --upgrade
 python3 -m pip install --upgrade pip
 python -m pip install
 python3 -m pip install
+/bin/python3 /home/ssajmon/xd.py
+echo "# TestRepo123" >> README.md
+git init
+git remote add origin https://github.com/SzymekBionik/TestRepo123.git
+git branch -M main
+git commit -m "first commit"
+git config --global user.email szymek.bionik@interia.pl
+git config --global user.name Szymon
+git commit -m "first commit"
+git commit -a
+git commit -m "first commit"
+git remote add origin https://github.com/SzymekBionik/TestRepo123.git
+git push -u origin main
+git branch -M main
+git push -u origin main

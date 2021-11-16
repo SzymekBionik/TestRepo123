@@ -19,3 +19,13 @@
 [2021-11-16 21:25:39.951] [remoteagent] [info] [::ffff:172.18.48.1][b43d5e70][ExtensionHostConnection] New connection established.
 [2021-11-16 21:25:39.955] [remoteagent] [info] [::ffff:172.18.48.1][b43d5e70][ExtensionHostConnection] <133> Launched Extension Host Process.
 [2021-11-16 21:30:38.850] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-11-16 21:45:53.465] [remoteagent] [info] [::ffff:172.18.48.1][2d112a2f][ManagementConnection] New connection established.
+[2021-11-16 21:45:53.498] [remoteagent] [info] [::ffff:172.18.48.1][ce896f4c][ExtensionHostConnection] New connection established.
+[2021-11-16 21:45:53.506] [remoteagent] [info] [::ffff:172.18.48.1][ce896f4c][ExtensionHostConnection] <5278> Launched Extension Host Process.
+[2021-11-16 21:46:26.541] [remoteagent] [info] [::ffff:172.18.48.1][cef9653d][ManagementConnection] New connection established.
+[2021-11-16 21:46:26.561] [remoteagent] [info] [::ffff:172.18.48.1][813a4a97][ExtensionHostConnection] New connection established.
+[2021-11-16 21:46:26.573] [remoteagent] [info] [::ffff:172.18.48.1][813a4a97][ExtensionHostConnection] <5382> Launched Extension Host Process.
+[2021-11-16 21:46:28.838] [remoteagent] [info] [::ffff:172.18.48.1][2d112a2f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-11-16 21:46:29.692] [remoteagent] [info] [::ffff:172.18.48.1][466d4333][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-11-16 21:46:29.849] [remoteagent] [info] [::ffff:172.18.48.1][ce896f4c][ExtensionHostConnection] <5278> Extension Host Process exited with code: 0, signal: null.
+[2021-11-16 21:46:30.729] [remoteagent] [info] [::ffff:172.18.48.1][b43d5e70][ExtensionHostConnection] <133> Extension Host Process exited with code: 0, signal: null.

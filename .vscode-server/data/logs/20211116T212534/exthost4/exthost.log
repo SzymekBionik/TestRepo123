@@ -1,0 +1,16 @@
+[2021-11-16 21:46:27.250] [exthost] [info] Extension host with pid 5382 started
+[2021-11-16 21:46:27.258] [exthost] [info] Lock '/home/ssajmon/.vscode-server/data/User/workspaceStorage/e661bf9b95d98597e22fefcffc028bf1/vscode.lock': Lock acquired.
+[2021-11-16 21:46:27.291] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-16 21:46:27.296] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-16 21:46:27.486] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-16 21:46:27.521] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-16 21:46:27.525] [exthost] [info] Eager extensions activated
+[2021-11-16 21:48:03.536] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.vscode-pylance
+[2021-11-16 21:48:03.762] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2021-11-16 21:48:04.159] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2021-11-16 21:48:04.284] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2021-11-16 21:48:05.906] [exthost] [error] [ms-python.python] provider FAILED
+[2021-11-16 21:48:05.907] [exthost] [error] TypeError: Cannot read property 'length' of undefined
+	at /home/ssajmon/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:353150
+	at h (/home/ssajmon/.vscode-server/extensions/ms-python.python-2021.11.1422169775/out/client/extension.js:52:358146)
+	at async x.provideCompletionItems (/home/ssajmon/.vscode-server/bin/3a6960b964327f0e3882ce18fcebd07ed191b316/out/vs/server/remoteExtensionHostProcess.js:94:181124)

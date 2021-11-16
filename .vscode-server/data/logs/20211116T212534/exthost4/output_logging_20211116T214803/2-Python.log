@@ -12,5 +12,3 @@ Experiment 'pythonRememberDebugConfig' is active
 Python interpreter path: /bin/python3
 Starting Pylance language server.
 > conda --version
-Error 2021-11-16 21:46:29: Error while running worker[Worker 2]. undefined
-Error 2021-11-16 21:46:29: Error while running worker[Worker 1]. undefined

@@ -1,0 +1,40 @@
+Validating found git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/ssajmon
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :nowerepo/nowy.py
+> git ls-files --stage -- /home/ssajmon/nowerepo/nowy.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git check-ignore -v -z --stdin
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git add -A -- /home/ssajmon/.bash_history /home/ssajmon/.vscode-server/data/User/workspaceStorage/4e3558ad559f69381327f5c1efdb29f8/vscode.lock /home/ssajmon/.vscode-server/data/logs/20211116T212534/exthost2/exthost.log /home/ssajmon/.vscode-server/data/logs/20211116T212534/exthost2/output_logging_20211116T212548/2-Python.log /home/ssajmon/.vscode-server/data/logs/20211116T212534/exthost2/output_logging_20211116T212548/4-Jupyter.log /home/ssajmon/.vscode-server/data/logs/20211116T212534/exthost2/output_logging_20211116T212549/5-Python Language Server.log /home/ssajmon/.vscode-server/data/logs/20211116T212534/remoteagent.log /home/ssajmon/.vscode-server/data/User/workspaceStorage/e661bf9b95d98597e22fefcffc028bf1/vscode.lock /home/ssajmon/.vscode-server/data/logs/20211116T212534/exthost3/exthost.log /home/ssajmon/.vscode-server/data/logs/20211116T212534/exthost3/output_logging_20211116T214554/1-Git.log /home/ssajmon/.vscode-server/data/logs/20211116T212534/exthost4/exthost.log /home/ssajmon/.vscode-server/data/logs/20211116T212534/exthost4/output_logging_20211116T214627/1-Git.log /home/ssajmon/.vscode-server/data/logs/20211116T212534/exthost4/output_logging_20211116T214803/2-Python.log /home/ssajmon/.vscode-server/data/logs/20211116T212534/exthost4/output_logging_20211116T214803/4-Python Test Log.log /home/ssajmon/.vscode-server/data/logs/20211116T212534/exthost4/output_logging_20211116T214804/3-Jupyter.log /home/ssajmon/.vscode-server/data/logs/20211116T212534/exthost4/output_logging_20211116T214804/5-Python Language Server.log

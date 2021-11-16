@@ -1,0 +1,16 @@
+[Info  - 9:48:04 PM] Pylance language server 2021.11.1 (pyright 446a9bdb) starting
+[Info  - 9:48:04 PM] Server root directory: /home/ssajmon/.vscode-server/extensions/ms-python.vscode-pylance-2021.11.1/dist
+[Info  - 9:48:05 PM] No configuration file found.
+[Info  - 9:48:05 PM] No pyproject.toml file found.
+[Info  - 9:48:05 PM] Setting pythonPath for service "nowerepo": "/bin/python3"
+[Warn  - 9:48:05 PM] stubPath /home/ssajmon/nowerepo/typings is not a valid directory.
+[Info  - 9:48:05 PM] Assuming Python version 3.8
+[Info  - 9:48:05 PM] Assuming Python platform Linux
+[Warn  - 9:48:05 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 9:48:05 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 9:48:05 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 9:48:05 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 9:48:05 PM] Searching for source files
+[Info  - 9:48:05 PM] Found 1 source file
+[Info  - 9:48:05 PM] Background analysis(1) root directory: /home/ssajmon/.vscode-server/extensions/ms-python.vscode-pylance-2021.11.1/dist
+[Info  - 9:48:05 PM] Background analysis(1) started
